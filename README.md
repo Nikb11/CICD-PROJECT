@@ -9,26 +9,26 @@ The calculator HTML project is a simple web-based calculator with basic arithmet
 
 ## Project Overview
 
-Task 1: Set Up a Simple HTML Project
+Task 1: Set Up a Simple HTML Project.
 Created a basic HTML project containing relevant content.
 Pushed the project to a GitHub repository.
 
-Task 2: AWS EC2/Local Linux Instance with Nginx
+Task 2: AWS EC2/Local Linux Instance with Nginx.
 Provisioned an AWS EC2 instance/Local Linux Instance.
 Installed and configured Nginx to serve web content.
 
-Task 3: Python Script to Check for New Commits
+Task 3: Python Script to Check for New Commits.
 Developed a Python script utilizing the GitHub API to detect new commits.
 
-Task 4: Bash Script for Deployment
+Task 4: Bash Script for Deployment.
 Crafted a bash script responsible for:
 Cloning the latest code from the repository.
 Deploying the updated content and restarting Nginx.
 
-Task 5: Cron Job for Python Script
+Task 5: Cron Job for Python Script.
 Configured a cron job to execute the Python script every 5 minutes.
 
-Task 6: Testing
+Task 6: Testing.
 Successfully validated the pipeline by:
 Making a new commit to the GitHub repository.
 Verifying automatic deployment of changes.
@@ -37,5 +37,5 @@ Verifying automatic deployment of changes.
 
 
 Contributors
-1.Nikhil Borse
-2.Daniel Gonsalves
+Nikhil Borse.
+Daniel Gonsalves.
